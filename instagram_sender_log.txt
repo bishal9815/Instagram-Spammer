@@ -1,0 +1,122 @@
+2025-05-10 19:10:36,019 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:10:36,473 - INFO - instagram_user [403] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:10:36,481 - ERROR - Browser login failed: login_required
+2025-05-10 19:15:33,928 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:15:34,370 - INFO - bishaldhungana77 [403] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:15:34,370 - ERROR - Browser login failed: login_required
+2025-05-10 19:17:36,617 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-05-10 19:17:37,283 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:17:37,881 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-05-10 19:17:43,348 - INFO - bishaldhungana77 [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:17:44,360 - INFO - https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/
+2025-05-10 19:17:45,912 - INFO - bishaldhungana77 [200] GET https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/?guid=96b51fab-2ed3-4f7b-a60d-471c47250d3e&device_id=android-cf071c92cf97cb62&challenge_context=Af5YAAz6Ob0hbReMbxx9zaJmq7pGbEDtWsv7nS47EstIMIm1OPtUT2-t6Z-l1dehCW8qvSQ8uiq_uuRXt9bB_IruDm2aF4pgjivnJzTTb_Wj_leoO-JuoEEPy2yWlDDS7mllTubqtVcGa91EIGksiWd-BEmQzErEQ9wLBWUbT8U9xozQCZRxk5hhLT2eMwTwfLbgFhCmPrS8fbJdL6giP-2cY7m7yJT0sdkPP2ItzvYie7CVbiQg4JGC_18niaE2xq47GkXMAVU-6ZEpQAIcR_TuNA3b2__nvtQ198qkP2MHWHpDKCdrzvzOtoYKLUpCHn13p0pY7DPU4LupE9sqswjAX9NspJlm7-xO-9S4fknBMp2RsLAKRLqBBwlBC9pYoacxEwMeZAJyn4bybTCqW7kAtMUnpQCcAE2Q-qUH250eCXi3HSQWR37h8NdJmzd8VVgYhFM7gV_xC64lqhYKL_QGeDgin-Zr53tuwNfZxRjdOLKLnfO8GPT-xXcwegv_kW9HsjwgHaxfaEXyNv4O_z01R31hZabo0vWFztirzaGDconexiIUdVrWJonr71MnlLff9jcCs5LDHXY0k9k (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:17:46,915 - INFO - https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/
+2025-05-10 19:17:49,671 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:18:11,819 - INFO - https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/
+2025-05-10 19:18:22,244 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/challenge/AShsPKC_WPZvciMAozTKs8CRPo9gHm0kFlsJtwbzq0tBX1vdmTdyxDhsQ93Z-gKO6jTNw1o/ASSMt3-vyb-sIOcC3rFs9JJk0BLpVewUDDslOlury7JhFIjJ9cfO_Xuo1N0U-Y0Fc4AhYVS29cix7Q/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:18:22,244 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-05-10 19:18:24,413 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:18:25,415 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-05-10 19:18:26,068 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:18:27,083 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:18:31,246 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:18:31,250 - INFO - Session saved successfully
+2025-05-10 19:18:31,250 - INFO - Successfully logged in as bishaldhungana77
+2025-05-10 19:18:52,840 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:18:52,841 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:18:56,235 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:18:56,235 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:18:59,596 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:18:59,596 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:19:00,604 - INFO - https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/
+2025-05-10 19:19:01,049 - INFO - bishaldhungana77 [200] GET https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:02,058 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:19:04,103 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:04,103 - INFO - Message #1 sent: 'sorry, You're the best part of my life.'
+2025-05-10 19:19:15,222 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:19:15,716 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:15,717 - INFO - Message #2 sent: 'sorry, You must be a shooting star, because you light up the sky.'
+2025-05-10 19:19:26,844 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:19:27,347 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:27,347 - INFO - Message #3 sent: 'sorry, I couldn't help but send you a virtual hug! \U0001f917'
+2025-05-10 19:19:38,440 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:19:38,833 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:38,834 - INFO - Message #4 sent: 'sorry, You're the peanut butter to my jelly, the moon to my stars.'
+2025-05-10 19:19:49,945 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:19:50,357 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:19:50,357 - INFO - Message #5 sent: 'sorry, I hope you know how much you mean to me.'
+2025-05-10 19:20:01,479 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:20:01,893 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:20:01,895 - INFO - Message #6 sent: 'sorry, You're the sunshine in my cloudy days.'
+2025-05-10 19:20:13,009 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:20:13,661 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:20:13,661 - INFO - Message #7 sent: 'sorry, Your smile could rival the sunrise.'
+2025-05-10 19:20:24,761 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:20:25,154 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:20:25,154 - INFO - Message #8 sent: 'sorry, just dropping by to say you're doing great! \U0001f44d'
+2025-05-10 19:20:36,249 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:20:36,735 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:20:36,735 - INFO - Message #9 sent: 'sorry, You're the reason butterflies still exist in my stomach.'
+2025-05-10 19:20:47,859 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:20:48,275 - INFO - bishaldhungana77 [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:20:48,276 - INFO - Message #10 sent: 'sorry, If being cute was a crime, you’d be serving life.'
+2025-05-10 19:23:12,180 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:23:15,433 - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:23:15,438 - INFO - Successfully loaded session for bishaldhungana77
+2025-05-10 19:23:36,099 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:23:36,099 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:23:39,507 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:23:39,508 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:23:42,881 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:23:42,881 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:23:43,890 - INFO - https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/
+2025-05-10 19:23:44,311 - INFO - None [200] GET https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:23:45,323 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:23:45,738 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:23:45,739 - INFO - Message #1 sent: 'sorry, You make my heart feel light and full at the same time.'
+2025-05-10 19:24:24,432 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:24:30,279 - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:24:30,284 - INFO - Successfully loaded session for bishaldhungana77
+2025-05-10 19:24:41,032 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:24:41,032 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:24:44,450 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:24:44,450 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:24:47,805 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:24:47,805 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:24:48,822 - INFO - https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/
+2025-05-10 19:24:49,302 - INFO - None [200] GET https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:24:50,315 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:24:50,838 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:24:50,838 - INFO - Message #1 sent: 'Sorry, I Love You'
+2025-05-10 19:25:01,944 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:25:02,435 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:25:02,435 - INFO - Message #2 sent: 'Sorry, I Love You'
+2025-05-10 19:25:13,551 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:25:13,938 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:25:13,939 - INFO - Message #3 sent: 'Sorry, I Love You'
+2025-05-10 19:25:25,038 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:25:25,446 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:25:25,446 - INFO - Message #4 sent: 'Sorry, I Love You'
+2025-05-10 19:25:36,548 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:25:37,165 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:25:37,165 - INFO - Message #5 sent: 'Sorry, I Love You'
+2025-05-10 19:29:31,592 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-05-10 19:29:35,834 - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:29:35,841 - INFO - Successfully loaded session for bishaldhungana77
+2025-05-10 19:29:47,218 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:29:47,218 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:29:50,577 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:29:50,577 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:29:53,933 - INFO - [None] [201] GET https://www.instagram.com/roshanip209/?__a=1&__d=dis
+2025-05-10 19:29:53,933 - ERROR - Status 201: JSONDecodeError in public_request (url=https://www.instagram.com/roshanip209/?__a=1&__d=dis) >>> 
+2025-05-10 19:29:54,946 - INFO - https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/
+2025-05-10 19:29:55,493 - INFO - None [200] GET https://i.instagram.com/api/v1/users/roshanip209/usernameinfo/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:29:56,507 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:29:56,976 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:29:56,976 - INFO - Message #1 sent: 'Let's break up, I think we're like oil and water... we just don’t mix, but at least we both look good separately,'
+2025-05-10 19:30:08,113 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:30:08,534 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:30:08,535 - INFO - Message #2 sent: 'Let's break up, I think we're like a broken pencil—pointless,'
+2025-05-10 19:30:19,643 - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-05-10 19:30:20,053 - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-05-10 19:30:20,053 - INFO - Message #3 sent: 'Let's break up, You’re like a parking ticket... expensive, and I’m not sure why I even have you,'
